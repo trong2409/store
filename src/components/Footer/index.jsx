@@ -130,15 +130,6 @@ export default function Footer() {
           <img src="image/payment.png" alt="" />
         </div>
       </div>
-      <div className="credits">
-        <p>
-          Created By
-          {' '}
-          <span>Mr. Web Designer</span>
-          {' '}
-          | All Rights Reserved
-        </p>
-      </div>
     </footer>
   );
 }
