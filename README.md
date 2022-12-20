@@ -1,4 +1,4 @@
-#About this app
+# About this app
 
 This is a simple page for a   __food store__ 
 
