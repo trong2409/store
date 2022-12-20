@@ -1,6 +1,12 @@
 #About this app
-This is a simple page for a  ( __food store__ )
+
+This is a simple page for a   __food store__ 
+
 Designed to be responesive with multiple devices
+
+Using [Swiper](https://swiperjs.com/react) for product slider
+
+You can find demo [here](https://trong2409.github.io/store/)
 
 
 # Getting Started with Create React App
